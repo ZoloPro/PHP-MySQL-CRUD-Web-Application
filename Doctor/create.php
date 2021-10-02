@@ -56,7 +56,7 @@
                   <!-- /.box -->
                 </div>
               </div>';
-  include('../master.php');
+  include('../index.php');
 ?>
 <script>
   function AddDoctor(){
