@@ -37,7 +37,7 @@
                 <!-- /.box -->
               </div>
             </div>';
-  include('../master.php');
+  include('../index.php');
 ?>
 <!-- page script -->
 <script>
